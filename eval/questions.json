@@ -1,0 +1,17 @@
+[
+  {"question": "How many chains did the authors sample when fitting the models?", "paper": "2610_28680v1.pdf", "page": 3, "answerable": true},
+  {"question": "Which Python library was used for the Bayesian fitting?", "paper": "2610_28680v1.pdf", "page": 3, "answerable": true},
+  {"question": "Which cosmology do the authors assume?", "paper": "2610_28680v1.pdf", "page": 3, "answerable": true},
+  {"question": "How much higher is the observed gravitational wave background than electromagnetic data predicts?", "paper": "2610_28680v1.pdf", "page": 2, "answerable": true},
+  {"question": "In which situation do the Bayes factors strongly favour the GWB-based model at every redshift?", "paper": "2610_28680v1.pdf", "page": 4, "answerable": true},
+  {"question": "Why do the authors reject incomplete data as the cause of the flat low-Eddington slope?", "paper": "2610_28680v1.pdf", "page": 5, "answerable": true},
+  {"question": "By what average factor is the break point lower for the GWB-based model?", "paper": "2610_28680v1.pdf", "page": 8, "answerable": true},
+  {"question": "Why are the fits at the highest redshifts highly uncertain?", "paper": "2610_28680v1.pdf", "page": 8, "answerable": true},
+  {"question": "What range does the fraction of active black holes span across redshifts?", "paper": "2610_28680v1.pdf", "page": 9, "answerable": true},
+  {"question": "At which redshift is the fiducial model preferred over the GWB model in the super-Eddington runs?", "paper": "2610_28680v1.pdf", "page": 10, "answerable": true},
+  {"question": "What two populations did the DESI galaxy study find?", "paper": "2610_28680v1.pdf", "page": 12, "answerable": true},
+  {"question": "Which future space mission will help constrain intermediate-mass black holes?", "paper": "2610_28680v1.pdf", "page": 13, "answerable": true},
+  {"question": "What is the capital of France?", "paper": null, "page": null, "answerable": false},
+  {"question": "How much funding in dollars did the authors receive?", "paper": null, "page": null, "answerable": false},
+  {"question": "Which GPU was used to run the sampling?", "paper": null, "page": null, "answerable": false}
+]
