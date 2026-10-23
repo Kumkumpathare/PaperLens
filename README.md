@@ -1,6 +1,10 @@
 # PaperLens
 
+**Live app:** https://paperlens97.streamlit.app
+
 Ask questions about research papers. Every answer cites the paper and page it came from.
+
+![PaperLens demo](docs/demo.png)
 
 ## How it works
 1. PDFs are split into chunks; each chunk keeps its paper name and page number.
